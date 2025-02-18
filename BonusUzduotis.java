@@ -1,3 +1,4 @@
+
 public class BonusUzduotis {
     public static String compress(String input) {
         // if input string is empty, return empty string.
